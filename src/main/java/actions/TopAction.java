@@ -40,4 +40,5 @@ public class TopAction extends ActionBase {
         forward(ForwardConst.FW_TOP_INDEX);
     }
 
+
 }
